@@ -1,0 +1,18 @@
+<h3>Takeout Ordering</h3>
+<form action="" method="post">
+    <label for="fullname">Full Name:<label>
+    <input type="text" id="fullname" name="
+
+    <input type="submit" value="Order It">
+
+
+    <p>Delivery Location:</p>
+    <select id="location" name="location">
+        <option value= "westcott">Westcott</option>
+        <option value= "downtown">Downtown</option>
+        <option value="eastwood">Eastwood</option>
+    </select><br>
+
+    <input type="submit" value="Order It">
+
+</form>
